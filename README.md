@@ -1,6 +1,13 @@
 # daisseo
 
 관리자가 상품을 판매하는게 아닌 회원이 상품을 판매하는 구조에 쇼핑몰
+
+Spring framework mybatis
+프론프 : HTML, CSS, JS
+백엔드 : JAVA, JSP
+서버 : Oracle DB
+JQery ajax json 데이터 전송
+
  주요 기능
    - 엑터 : 비회원, 일반회원, 판매자,  
    - 비회원 : 메인페이지 카테고리별 상품조회, 상품상세, 회원가입
